@@ -52,8 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				D0D4CD402CFB3B05008C1A2D /* visionOSDemo */,
-				D0D4CD412CFB3B05008C1A2D /* Packages */,
 				D0D4CD3F2CFB3B05008C1A2D /* Products */,
+				D0D4CD412CFB3B05008C1A2D /* Packages */,
 			);
 			sourceTree = "<group>";
 		};
